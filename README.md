@@ -7,10 +7,10 @@
 		b. Database Joins
 		c. Concepts of Dimensions and Measures
 		d. Discrete Vs Continous variables
-	2. Videos to show the features of Tableau (will provide the Video URLs, once uploaded to YouTube.com)
-	3. Manually build the various charts to explain the fundamental concepts
-	4. Fundamentals of Tableau
-	5. Develop Dashboards/Story boards
+	2. Manually build the various charts to explain the fundamental concepts
+	3. Fundamentals of Tableau
+	4. Develop Dashboards/Story boards
+	5. Videos to show the features of Tableau (will provide the Video URLs, once uploaded to YouTube.com)
 	
 #Basic Statistics
 
