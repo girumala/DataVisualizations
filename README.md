@@ -1,7 +1,7 @@
 # Data Visualizations - Tableau-10
 
 
-# Goals
+# Index
 	1. Prerequisites 
 		a. Basic Statistics
 		b. Database Joins
