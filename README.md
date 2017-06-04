@@ -2,10 +2,15 @@
 
 
 # Goals
-	1. Develop the necessary material for the exam preparation
-	2. Develop Videos to show the features of Tableau (will provide the Video URLs, once uploaded to YouTube.com)
-	3. Course material will be very comprehensive
-	4. Manually build the various charts to explain the fundamental concepts
+	1. Prerequisites 
+		a. Basic Statistics
+		b. Database Joins
+		c. Concepts of Dimensions and Measures
+		d. Discrete Vs Continous variables
+	2. Videos to show the features of Tableau (will provide the Video URLs, once uploaded to YouTube.com)
+	3. Manually build the various charts to explain the fundamental concepts
+	4. Fundamentals of Tableau
+	5. Develop Dashboards/Story boards
 	
 #Basic Statistics
 
