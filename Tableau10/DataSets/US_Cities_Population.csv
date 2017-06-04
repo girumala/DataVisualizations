@@ -1,0 +1,305 @@
+2015 rank,City,State,2010 Census,2014 land area,Location
+1,New York,New York,8175133,302.6 sq mi,40.6643°N 73.9385°W
+2,Los Angeles,California,3792621,468.7 sq mi,34.0194°N 118.4108°W
+3,Chicago,Illinois,2695598,227.6 sq mi,41.8376°N 87.6818°W
+4,Houston,Texas,2100263,599.6 sq mi,29.7805°N 95.3863°W
+5,Philadelphia,Pennsylvania,1526006,134.1 sq mi,40.0094°N 75.1333°W
+6,Phoenix,Arizona,1445632,516.7 sq mi,33.5722°N 112.0880°W
+7,San Antonio,Texas,1327407,460.9 sq mi,29.4724°N 98.5251°W
+8,San Diego,California,1307402,325.2 sq mi,32.8153°N 117.1350°W
+9,Dallas,Texas,1197816,340.5 sq mi,32.7757°N 96.7967°W
+10,San Jose,California,945942,176.6 sq mi,37.2969°N 121.8193°W
+11,Austin,Texas,790390,322.48 sq mi,30.3072°N 97.7560°W
+12,Jacksonville,Florida,821784,747.0 sq mi,30.3370°N 81.6613°W
+13,San Francisco,California,805235,46.9 sq mi,37.7751°N 122.4193°W
+14,Indianapolis,Indiana,820445,361.4 sq mi,39.7767°N 86.1459°W
+15,Columbus,Ohio,787033,217.2 sq mi,39.9848°N 82.9850°W
+16,Fort Worth,Texas,741206,339.8 sq mi,32.7795°N 97.3463°W
+17,Charlotte,North Carolina,731424,297.7 sq mi,35.2087°N 80.8307°W
+18,Seattle,Washington,608660,83.9 sq mi,47.6205°N 122.3509°W
+19,Denver,Colorado,600158,153.0 sq mi,39.7618°N 104.8806°W
+20,El Paso,Texas,649121,255.2 sq mi,31.8484°N 106.4270°W
+21,Detroit,Michigan,713777,138.8 sq mi,42.3830°N 83.1022°W
+22,Washington,District of Columbia,601723,61.0 sq mi,38.9041°N 77.0171°W
+23,Boston,Massachusetts,617594,48.3 sq mi,42.3320°N 71.0202°W
+24,Memphis,Tennessee,646889,315.1 sq mi,35.1035°N 89.9785°W
+25,Nashville,Tennessee,601222,475.1 sq mi,36.1718°N 86.7850°W
+26,Portland,Oregon,583776,133.4 sq mi,45.5370°N 122.6500°W
+27,Oklahoma City,Oklahoma,579999,606.4 sq mi,35.4671°N 97.5137°W
+28,Las Vegas,Nevada,583756,135.8 sq mi,36.2277°N 115.2640°W
+29,Baltimore,Maryland,620961,80.9 sq mi,39.3002°N 76.6105°W
+30,Louisville,Kentucky,597337,325.2 sq mi,38.1781°N 85.6667°W
+31,Milwaukee,Wisconsin,594833,96.1 sq mi,43.0633°N 87.9667°W
+32,Albuquerque,New Mexico,545852,187.7 sq mi,35.1056°N 106.6474°W
+33,Tucson,Arizona,520116,226.7 sq mi,32.1543°N 110.8711°W
+34,Fresno,California,494665,113.2 sq mi,36.7827°N 119.7945°W
+35,Sacramento,California,466488,97.9 sq mi,38.5666°N 121.4686°W
+36,Kansas City,Missouri,459787,315.0 sq mi,39.1252°N 94.5511°W
+37,Long Beach,California,462257,50.3 sq mi,33.8091°N 118.1553°W
+38,Mesa,Arizona,439041,136.5 sq mi,33.4019°N 111.7174°W
+39,Atlanta,Georgia,420003,133.2 sq mi,33.7629°N 84.4227°W
+40,Colorado Springs,Colorado,416427,194.5 sq mi,38.8673°N 104.7607°W
+41,Virginia Beach,Virginia,437994,249.0 sq mi,36.7793°N 76.0240°W
+42,Raleigh,North Carolina,403892,142.9 sq mi,35.8302°N 78.6414°W
+43,Omaha,Nebraska,408958,127.1 sq mi,41.2647°N 96.0419°W
+44,Miami,Florida,399457,35.9 sq mi,25.7752°N 80.2086°W
+45,Oakland,California,390724,55.9 sq mi,37.7699°N 122.2256°W
+46,Minneapolis,Minnesota,382578,54.0 sq mi,44.9633°N 93.2683°W
+47,Tulsa,Oklahoma,391906,196.8 sq mi,36.1279°N 95.9023°W
+48,Wichita,Kansas,382368,159.3 sq mi,37.6907°N 97.3427°W
+49,New Orleans,Louisiana,343829,169.4 sq mi,30.0686°N 89.9390°W
+50,Arlington,Texas,365438,95.9 sq mi,32.7007°N 97.1247°W
+51,Cleveland,Ohio,396815,77.7 sq mi,41.4781°N 81.6795°W
+52,Bakersfield,California,347483,142.2 sq mi,35.3212°N 119.0183°W
+53,Tampa,Florida,335709,113.4 sq mi,27.9701°N 82.4797°W
+54,Aurora,Colorado,325078,154.1 sq mi,39.7082°N 104.8235°W
+55,Honolulu,Hawai'i,337256,60.5 sq mi,21.3259°N 157.8453°W
+56,Anaheim,California,336265,49.8 sq mi,33.8555°N 117.7601°W
+57,Santa Ana,California,324528,27.3 sq mi,33.7365°N 117.8826°W
+58,Corpus Christi,Texas,305215,160.6 sq mi,27.7543°N 97.1734°W
+59,Riverside,California,303871,81.1 sq mi,33.9381°N 117.3932°W
+60,St. Louis,Missouri,319294,61.9 sq mi,38.6357°N 90.2446°W
+61,Lexington,Kentucky,295803,283.6 sq mi,38.0402°N 84.4584°W
+62,Stockton,California,291707,61.7 sq mi,37.9763°N 121.3133°W
+63,Pittsburgh,Pennsylvania,305704,55.4 sq mi,40.4398°N 79.9766°W
+64,Saint Paul,Minnesota,285068,52.0 sq mi,44.9489°N 93.1039°W
+65,Anchorage,Alaska,291826,"1,704.7 sq mi",61.2176°N 149.8953°W
+66,Cincinnati,Ohio,296943,77.9 sq mi,39.1399°N 84.5064°W
+67,Henderson,Nevada,257729,107.7 sq mi,36.0122°N 115.0375°W
+68,Greensboro,North Carolina,269666,126.5 sq mi,36.0965°N 79.8271°W
+69,Plano,Texas,259841,71.6 sq mi,33.0508°N 96.7479°W
+70,Newark,New Jersey,277140,24.2 sq mi,40.7242°N 74.1726°W
+71,Toledo,Ohio,287208,80.7 sq mi,41.6641°N 83.5819°W
+72,Lincoln,Nebraska,258379,89.1 sq mi,40.8090°N 96.6804°W
+73,Orlando,Florida,238300,102.4 sq mi,28.4159°N 81.2988°W
+74,Chula Vista,California,243916,49.6 sq mi,32.6277°N 117.0152°W
+75,Jersey City,New Jersey,247597,14.8 sq mi,40.7114°N 74.0648°W
+76,Chandler,Arizona,236123,64.4 sq mi,33.2829°N 111.8549°W
+77,Fort Wayne,Indiana,253691,110.6 sq mi,41.0882°N 85.1439°W
+78,Buffalo,New York,261310,40.4 sq mi,42.8925°N 78.8597°W
+79,Durham,North Carolina,228330,107.4 sq mi,35.9810°N 78.9056°W
+80,St. Petersburg,Florida,244769,61.7 sq mi,27.7620°N 82.6441°W
+81,Irvine,California,212375,66.1 sq mi,33.6784°N 117.7713°W
+82,Laredo,Texas,236091,88.9 sq mi,27.5477°N 99.4869°W
+83,Lubbock,Texas,229573,122.4 sq mi,33.5665°N 101.8867°W
+84,Madison,Wisconsin,233209,76.8 sq mi,43.0878°N 89.4301°W
+85,Gilbert,Arizona,208453,68.0 sq mi,33.3102°N 111.7422°W
+86,Norfolk,Virginia,242803,54.1 sq mi,36.9230°N 76.2446°W
+87,Reno,Nevada,225221,103.0 sq mi,39.4745°N 119.7765°W
+88,Winston–Salem,North Carolina,229617,132.4 sq mi,36.1033°N 80.2606°W
+89,Glendale,Arizona,226721,60.0 sq mi,33.5331°N 112.1899°W
+90,Hialeah,Florida,224669,21.5 sq mi,25.8699°N 80.3029°W
+91,Garland,Texas,226876,57.1 sq mi,32.9098°N 96.6304°W
+92,Scottsdale,Arizona,217385,183.9 sq mi,33.6687°N 111.8237°W
+93,Irving,Texas,216290,67.0 sq mi,32.8577°N 96.9700°W
+94,Chesapeake,Virginia,222209,340.8 sq mi,36.6794°N 76.3018°W
+95,North Las Vegas,Nevada,216961,101.3 sq mi,36.2830°N 115.0893°W
+96,Fremont,California,214089,77.5 sq mi,37.4944°N 121.9411°W
+97,Baton Rouge,Louisiana,229493,76.9 sq mi,30.4485°N 91.1259°W
+98,Richmond,Virginia,204214,59.8 sq mi,37.5314°N 77.4760°W
+99,Boise,Idaho,205671,79.4 sq mi,43.5985°N 116.2311°W
+100,San Bernardino,California,209924,59.2 sq mi,34.1393°N 117.2953°W
+101,Spokane,Washington,208916,59.2 sq mi,47.6736°N 117.4166°W
+102,Birmingham,Alabama,212237,146.1 sq mi,33.5274°N 86.7990°W
+103,Modesto,California,201165,36.9 sq mi,37.6609°N 120.9891°W
+104,Des Moines,Iowa,203433,80.9 sq mi,41.5739°N 93.6167°W
+105,Rochester,New York,210565,35.8 sq mi,43.1699°N 77.6169°W
+106,Tacoma,Washington,198397,49.7 sq mi,47.2522°N 122.4598°W
+107,Fontana,California,196069,42.4 sq mi,34.1088°N 117.4627°W
+108,Oxnard,California,197899,26.9 sq mi,34.2023°N 119.2046°W
+109,Moreno Valley,California,193365,51.3 sq mi,33.9233°N 117.2057°W
+110,Fayetteville,North Carolina,200564,145.8 sq mi,35.0851°N 78.9803°W
+111,Huntington Beach,California,189992,26.7 sq mi,33.6906°N 118.0093°W
+112,Yonkers,New York,195976,18.0 sq mi,40.9459°N 73.8674°W
+113,Glendale,California,191719,30.5 sq mi,34.1814°N 118.2458°W
+114,Aurora,Illinois,197899,44.9 sq mi,41.7635°N 88.2901°W
+115,Montgomery,Alabama,205764,159.6 sq mi,32.3463°N 86.2686°W
+116,Columbus,Georgia,189885,216.4 sq mi,32.5102°N 84.8749°W
+117,Amarillo,Texas,190695,99.5 sq mi,35.1978°N 101.8287°W
+118,Little Rock,Arkansas,193524,119.2 sq mi,34.7254°N 92.3586°W
+119,Akron,Ohio,199110,62.0 sq mi,41.0805°N 81.5214°W
+120,Shreveport,Louisiana,199311,105.4 sq mi,32.4670°N 93.7927°W
+121,Augusta,Georgia,195844,302.5 sq mi,33.3655°N 82.0734°W
+122,Grand Rapids,Michigan,188040,44.4 sq mi,42.9612°N 85.6556°W
+123,Mobile,Alabama,195111,139.1 sq mi,30.6684°N 88.1002°W
+124,Salt Lake City,Utah,186440,111.1 sq mi,40.7785°N 111.9314°W
+125,Huntsville,Alabama,180105,209.1 sq mi,34.7843°N 86.5390°W
+126,Tallahassee,Florida,181376,100.2 sq mi,30.4551°N 84.2534°W
+127,Grand Prairie,Texas,175396,72.1 sq mi,32.6842°N 97.0210°W
+128,Overland Park,Kansas,173372,74.8 sq mi,38.8890°N 94.6906°W
+129,Knoxville,Tennessee,178874,98.5 sq mi,35.9709°N 83.9465°W
+130,Worcester,Massachusetts,181045,37.4 sq mi,42.2695°N 71.8078°W
+131,Brownsville,Texas,175023,132.3 sq mi,26.0183°N 97.4538°W
+132,Newport News,Virginia,180719,68.7 sq mi,37.0760°N 76.5217°W
+133,Santa Clarita,California,176320,52.7 sq mi,34.4049°N 118.5047°W
+134,Port St. Lucie,Florida,164603,114.0 sq mi,27.2810°N 80.3838°W
+135,Providence,Rhode Island,178042,18.4 sq mi,41.8231°N 71.4188°W
+136,Fort Lauderdale,Florida,165521,34.8 sq mi,26.1413°N 80.1439°W
+137,Chattanooga,Tennessee,167674,137.2 sq mi,35.0665°N 85.2471°W
+138,Tempe,Arizona,161719,39.9 sq mi,33.3884°N 111.9318°W
+139,Oceanside,California,167086,41.2 sq mi,33.2246°N 117.3062°W
+140,Garden Grove,California,170883,17.9 sq mi,33.7788°N 117.9605°W
+141,Rancho Cucamonga,California,165269,39.9 sq mi,34.1233°N 117.5642°W
+142,Cape Coral,Florida,154305,105.7 sq mi,26.6431°N 81.9973°W
+143,Santa Rosa,California,167815,41.3 sq mi,38.4468°N 122.7061°W
+144,Vancouver,Washington,161791,46.5 sq mi,45.6372°N 122.5965°W
+145,Sioux Falls,South Dakota,153888,73.0 sq mi,43.5383°N 96.7320°W
+146,Peoria,Arizona,154065,174.4 sq mi,33.7877°N 112.3111°W
+147,Ontario,California,163924,49.9 sq mi,34.0395°N 117.6088°W
+148,Jackson,Mississippi,173514,111.0 sq mi,32.3158°N 90.2128°W
+149,Elk Grove,California,153015,42.2 sq mi,38.4144°N 121.3849°W
+150,Springfield,Missouri,159498,81.7 sq mi,37.1942°N 93.2913°W
+151,Pembroke Pines,Florida,154019,33.1 sq mi,26.0212°N 80.3404°W
+152,Salem,Oregon,154637,47.9 sq mi,44.9237°N 123.0231°W
+153,Corona,California,152374,38.8 sq mi,33.8624°N 117.5639°W
+154,Eugene,Oregon,156185,43.7 sq mi,44.0567°N 123.1162°W
+155,McKinney,Texas,131117,62.2 sq mi,33.2012°N 96.6680°W
+156,Fort Collins,Colorado,143986,54.3 sq mi,40.5482°N 105.0648°W
+157,Lancaster,California,156633,94.3 sq mi,34.6936°N 118.1753°W
+158,Cary,North Carolina,135234,54.3 sq mi,35.7821°N 78.8141°W
+159,Palmdale,California,152750,106.0 sq mi,34.5913°N 118.1090°W
+160,Hayward,California,144186,45.3 sq mi,37.6281°N 122.1063°W
+161,Salinas,California,150441,23.2 sq mi,36.6902°N 121.6337°W
+162,Frisco,Texas,116989,61.8 sq mi,33.1510°N 96.8193°W
+163,Springfield,Massachusetts,153060,31.9 sq mi,42.1155°N 72.5400°W
+164,Pasadena,Texas,149043,42.8 sq mi,29.6583°N 95.1505°W
+165,Macon,Georgia,91351,255.1 sq mi,32.505°N 83.396°W
+166,Alexandria,Virginia,139966,15.0 sq mi,38.8183°N 77.0820°W
+167,Pomona,California,149058,23.0 sq mi,34.0586°N 117.7613°W
+168,Lakewood,Colorado,142980,42.9 sq mi,39.6989°N 105.1176°W
+169,Sunnyvale,California,140081,22.0 sq mi,37.3858°N 122.0263°W
+170,Escondido,California,143911,36.8 sq mi,33.1336°N 117.0732°W
+171,Kansas City,Kansas,145786,124.8 sq mi,39.1225°N 94.7418°W
+172,Hollywood,Florida,140768,27.4 sq mi,26.0311°N 80.1646°W
+173,Clarksville,Tennessee,132929,97.6 sq mi,36.5664°N 87.3452°W
+174,Torrance,California,145438,20.5 sq mi,33.8350°N 118.3414°W
+175,Rockford,Illinois,152871,61.1 sq mi,42.2634°N 89.0628°W
+176,Joliet,Illinois,147433,62.1 sq mi,41.5181°N 88.1584°W
+177,Paterson,New Jersey,146199,8.4 sq mi,40.9147°N 74.1628°W
+178,Bridgeport,Connecticut,144229,16.0 sq mi,41.1874°N 73.1957°W
+179,Naperville,Illinois,141853,38.8 sq mi,41.7492°N 88.1620°W
+180,Savannah,Georgia,136286,103.2 sq mi,32.0025°N 81.1536°W
+181,Mesquite,Texas,139824,46.0 sq mi,32.7639°N 96.5924°W
+182,Syracuse,New York,145170,25.0 sq mi,43.0410°N 76.1436°W
+183,Pasadena,California,137122,23.0 sq mi,34.1606°N 118.1396°W
+184,Orange,California,136416,24.8 sq mi,33.8048°N 117.8249°W
+185,Fullerton,California,135161,22.4 sq mi,33.8857°N 117.9280°W
+186,Killeen,Texas,127921,53.6 sq mi,31.0777°N 97.7320°W
+187,Dayton,Ohio,141527,55.7 sq mi,39.7774°N 84.1996°W
+188,McAllen,Texas,129877,48.3 sq mi,26.2185°N 98.2461°W
+189,Bellevue,Washington,122363,32.0 sq mi,47.5978°N 122.1565°W
+190,Miramar,Florida,122041,29.5 sq mi,25.9770°N 80.3358°W
+191,Hampton,Virginia,137436,51.4 sq mi,37.0480°N 76.2971°W
+192,West Valley City,Utah,129480,35.6 sq mi,40.6885°N 112.0118°W
+193,Warren,Michigan,134056,34.4 sq mi,42.4929°N 83.0250°W
+194,Olathe,Kansas,125872,59.7 sq mi,38.8843°N 94.8188°W
+195,Columbia,South Carolina,129272,132.2 sq mi,34.0298°N 80.8966°W
+196,Thornton,Colorado,118772,34.8 sq mi,39.9180°N 104.9454°W
+197,Carrollton,Texas,119097,36.3 sq mi,32.9884°N 96.8998°W
+198,Midland,Texas,111147,72.1 sq mi,32.0299°N 102.1097°W
+199,Charleston,South Carolina,120083,109.0 sq mi,32.8179°N 79.9589°W
+200,Waco,Texas,124805,89.0 sq mi,31.5601°N 97.1860°W
+201,Sterling Heights,Michigan,129699,36.5 sq mi,42.5812°N 83.0303°W
+202,Denton,Texas,113383,88.0 sq mi,33.2151°N 97.1417°W
+203,Cedar Rapids,Iowa,126326,70.8 sq mi,41.9670°N 91.6778°W
+204,New Haven,Connecticut,129779,18.7 sq mi,41.3108°N 72.9250°W
+205,Roseville,California,118788,36.2 sq mi,38.7657°N 121.3032°W
+206,Gainesville,Florida,124354,61.3 sq mi,29.6788°N 82.3459°W
+207,Visalia,California,124442,36.2 sq mi,36.3272°N 119.3234°W
+208,Coral Springs,Florida,121096,23.8 sq mi,26.2708°N 80.2593°W
+209,Thousand Oaks,California,126683,55.0 sq mi,34.1933°N 118.8742°W
+210,Elizabeth,New Jersey,124969,12.3 sq mi,40.6663°N 74.1935°W
+211,Stamford,Connecticut,122643,37.6 sq mi,41.0799°N 73.5460°W
+212,Concord,California,122067,30.5 sq mi,37.9722°N 122.0016°W
+213,Surprise,Arizona,117517,105.7 sq mi,33.6706°N 112.4527°W
+214,Lafayette,Louisiana,120623,49.2 sq mi,30.2116°N 92.0314°W
+215,Topeka,Kansas,127473,60.2 sq mi,39.0362°N 95.6948°W
+216,Kent,Washington,92411,28.6 sq mi,47.3853°N 122.2169°W
+217,Simi Valley,California,124237,41.5 sq mi,34.2669°N 118.7485°W
+218,Santa Clara,California,116468,18.4 sq mi,37.3646°N 121.9679°W
+219,Murfreesboro,Tennessee,108755,55.3 sq mi,35.8522°N 86.4161°W
+220,Hartford,Connecticut,124775,17.4 sq mi,41.7660°N 72.6833°W
+221,Athens,Georgia,115452,116.4 sq mi,33.9496°N 83.3701°W
+222,Victorville,California,115903,73.2 sq mi,34.5277°N 117.3536°W
+223,Abilene,Texas,117063,106.8 sq mi,32.4545°N 99.7381°W
+224,Vallejo,California,115942,30.7 sq mi,38.1079°N 122.2639°W
+225,Berkeley,California,112580,10.5 sq mi,37.8667°N 122.2991°W
+226,Norman,Oklahoma,110925,178.8 sq mi,35.22°N 97.44°W
+227,Allentown,Pennsylvania,118032,17.5 sq mi,40.5940°N 75.4782°W
+228,Evansville,Indiana,117429,44.2 sq mi,37.9877°N 87.5347°W
+229,Columbia,Missouri,108500,63.1 sq mi,38.9479°N 92.3261°W
+230,Odessa,Texas,99940,42.0 sq mi,31.8804°N 102.3434°W
+231,Fargo,North Dakota,105549,48.8 sq mi,46.8652°N 96.8290°W
+232,Beaumont,Texas,118296,82.8 sq mi,30.0843°N 94.1458°W
+233,Independence,Missouri,116830,77.6 sq mi,39.0853°N 94.3513°W
+234,Ann Arbor,Michigan,113934,27.8 sq mi,42.2756°N 83.7313°W
+235,El Monte,California,113475,9.6 sq mi,34.0746°N 118.0291°W
+236,Springfield,Illinois,116250,59.5 sq mi,39.7639°N 89.6708°W
+237,Round Rock,Texas,99887,34.1 sq mi,30.5237°N 97.6674°W
+238,Wilmington,North Carolina,106476,51.5 sq mi,34.2092°N 77.8858°W
+239,Arvada,Colorado,106433,35.1 sq mi,39.8097°N 105.1066°W
+240,Provo,Utah,112488,41.7 sq mi,40.2453°N 111.6448°W
+241,Peoria,Illinois,115007,48.0 sq mi,40.7523°N 89.6171°W
+242,Lansing,Michigan,114297,36.0 sq mi,42.7098°N 84.5562°W
+243,Downey,California,111772,12.4 sq mi,33.9382°N 118.1309°W
+244,Carlsbad,California,105328,37.7 sq mi,33.1239°N 117.2828°W
+245,Costa Mesa,California,109960,15.7 sq mi,33.6659°N 117.9123°W
+246,Miami Gardens,Florida,107167,18.2 sq mi,25.9489°N 80.2436°W
+247,Westminster,Colorado,106114,31.6 sq mi,39.8822°N 105.0644°W
+248,Clearwater,Florida,107685,25.6 sq mi,27.9795°N 82.7663°W
+249,Fairfield,California,105321,37.4 sq mi,38.2568°N 122.0397°W
+250,Rochester,Minnesota,106769,54.6 sq mi,44.0154°N 92.4772°W
+251,Elgin,Illinois,108188,37.2 sq mi,42.0396°N 88.3217°W
+252,Temecula,California,100097,30.2 sq mi,33.5019°N 117.1246°W
+253,West Jordan,Utah,103712,32.5 sq mi,40.6023°N 112.0010°W
+254,Inglewood,California,109673,9.1 sq mi,33.9561°N 118.3443°W
+255,Richardson,Texas,99223,28.6 sq mi,32.9723°N 96.7081°W
+256,Lowell,Massachusetts,106519,13.6 sq mi,42.6389°N 71.3221°W
+257,Gresham,Oregon,105594,23.2 sq mi,45.5023°N 122.4416°W
+258,Antioch,California,102372,28.3 sq mi,37.9775°N 121.7976°W
+259,Cambridge,Massachusetts,105162,6.4 sq mi,42.3760°N 71.1183°W
+260,High Point,North Carolina,104371,53.8 sq mi,35.9855°N 79.9902°W
+261,Billings,Montana,104170,43.4 sq mi,45.7895°N 108.5499°W
+262,Manchester,New Hampshire,109565,33.1 sq mi,42.9847°N 71.4439°W
+263,Murrieta,California,103466,33.6 sq mi,33.5719°N 117.1907°W
+264,Centennial,Colorado,100377,28.7 sq mi,39.5906°N 104.8691°W
+265,Richmond,California,103701,30.1 sq mi,37.9530°N 122.3594°W
+266,Ventura,California,106433,21.7 sq mi,34.2681°N 119.2550°W
+267,Pueblo,Colorado,106595,53.6 sq mi,38.2731°N 104.6124°W
+268,Pearland,Texas,91252,47.5 sq mi,29.5544°N 95.2958°W
+269,Waterbury,Connecticut,110366,28.5 sq mi,41.5585°N 73.0367°W
+270,West Covina,California,106098,16.0 sq mi,34.0559°N 117.9099°W
+271,North Charleston,South Carolina,97471,76.6 sq mi,32.8853°N 80.0169°W
+272,Everett,Washington,103019,33.4 sq mi,48.0033°N 122.1742°W
+273,College Station,Texas,93857,49.6 sq mi,30.6013°N 96.3144°W
+274,Palm Bay,Florida,103190,65.7 sq mi,27.9856°N 80.6626°W
+275,Pompano Beach,Florida,99845,24.0 sq mi,26.2426°N 80.1290°W
+276,Boulder,Colorado,97385,25.7 sq mi,40.0175°N 105.2797°W
+277,Norwalk,California,105549,9.7 sq mi,33.9069°N 118.0834°W
+278,West Palm Beach,Florida,99919,55.3 sq mi,26.7483°N 80.1266°W
+279,Broken Arrow,Oklahoma,98850,61.6 sq mi,36.0365°N 95.7810°W
+280,Daly City,California,101123,7.7 sq mi,37.7009°N 122.4650°W
+281,Sandy Springs,Georgia,93853,39.0 sq mi,33.5615°N 84.227°W
+282,Burbank,California,103340,17.3 sq mi,34.1890°N 118.3249°W
+283,Green Bay,Wisconsin,104057,45.5 sq mi,44.5207°N 87.9842°W
+284,Santa Maria,California,99553,22.8 sq mi,34.9332°N 120.4438°W
+285,Wichita Falls,Texas,104553,72.1 sq mi,33.9067°N 98.5259°W
+286,Lakeland,Florida,97422,74.4 sq mi,28.0411°N 81.9589°W
+287,Clovis,California,95631,23.3 sq mi,36.4931°N 119.4211°W
+288,Lewisville,Texas,95290,42.5 sq mi,33.0383°N 97.0061°W
+289,Tyler,Texas,96900,54.4 sq mi,32.35°N 95.30°W
+290,El Cajon,California,99478,14.4 sq mi,32.8017°N 116.9605°W
+291,San Mateo,California,97207,15.9 sq mi,37.5542°N 122.3131°W
+292,Rialto,California,99171,22.4 sq mi,34.1118°N 117.3883°W
+293,Edison,New Jersey,99967,30.6 sq mi,40.5040°N 74.3494°W
+294,Davenport,Iowa,99685,62.9 sq mi,41.5541°N 90.6040°W
+295,Hillsboro,Oregon,91611,24.3 sq mi,45.5167°N 122.9833°W
+296,Woodbridge,New Jersey,99585,24.5 sq mi,40.5608°N 74.2926°W
+297,Las Cruces,New Mexico,97618,76.3 sq mi,32.3197°N 106.7653°W
+298,South Bend,Indiana,101168,41.5 sq mi,41.6769°N 86.2690°W
+299,Vista,California,93834,18.7 sq mi,33.1936°N 117.2411°W
+300,Greeley,Colorado,92889,30.0 sq mi,40.4167°N 104.7167°W
+301,Davie,Florida,91992,35.7 sq mi,26.0814°N 80.2803°W
+302,San Angelo,Texas,93200,58.2 sq mi,31.45°N 100.45°W
+303,Jurupa Valley,California,0,43.5 sq mi,33.0011°N 117.4706°W
+304,Renton,Washington,90927,23.5 sq mi,47.4867°N 122.1953°W
