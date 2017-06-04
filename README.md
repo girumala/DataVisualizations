@@ -1,5 +1,5 @@
-# Tableau-10-Training
-Tableau 10 - Desktop Associate Exam Preparation
+# Data Visualizations - Tableau-10
+
 
 # Goals
 	1. Develop the necessary material for the exam preparation
