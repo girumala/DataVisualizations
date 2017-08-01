@@ -1,0 +1,11 @@
+https://perso.telecom-paristech.fr/eagan/class/igr204/datasets
+
+Explore about Highlight Tables, Tree Maps, Area Charts
+Explore about Calculated Metrics, Sorting, Filtering
+ Get a brief idea about various Aggregated Measures like Percentages, Data Spotlighting, and Summary Card
+
+Explore about Dual Charts, Dual Axis & Combination charts
+ Learn about Box and Whisker Plots
+
+Explore about Quick Table Calculations and Custom Table Calculations
+ Learn about Moving Averages, Window Averages and Running Totals

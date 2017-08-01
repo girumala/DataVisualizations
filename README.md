@@ -17,8 +17,10 @@
 	1. Mean
 	2. Median
 	3. Mode
-	4. Standard Deviation
+	4. Variance / Standard Deviation
 	5. Running (Cumulative) Total
+	6. Year to Date
+	7. Year over Year
 	
 	# Read Basic Statistics.docx
 	
